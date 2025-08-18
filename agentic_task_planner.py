@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 import time
 from langchain_huggingface import ChatHuggingFace,HuggingFaceEndpoint
@@ -7,6 +8,9 @@ from langchain.schema.runnable import RunnableBranch
 from pydantic import BaseModel,Field
 from typing import List,Literal
 from dotenv import load_dotenv
+
+huggingface_key = st.secrets["HUGGINGFACEHUB_API_TOKEN"]
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = huggingface_key
 
 def get_subtasks(user_query:str):
     template = PromptTemplate(
