@@ -1,0 +1,8 @@
+# LangChain Core
+langchain
+
+
+# frontend
+streamlit
+time
+pandas
