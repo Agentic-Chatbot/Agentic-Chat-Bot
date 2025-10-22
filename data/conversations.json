@@ -1,0 +1,260 @@
+{
+  "a50b2426-c0b2-4436-8029-19a3d10b7dd5": {
+    "name": "Conversation 10/22 21:58",
+    "messages": [
+      {
+        "role": "user",
+        "content": "what is capital of india"
+      },
+      {
+        "role": "assistant",
+        "content": "The capital of India is **New Delhi**.\n\nIt's a vibrant and historic city that serves as the seat of the Indian government, home to the President, Parliament, and various ministries. While \"Delhi\" often refers to the broader metropolitan area, New Delhi is specifically the capital district within it, known for its wide boulevards, colonial-era buildings, and numerous landmarks.",
+        "sources": [
+          {
+            "content": "server skeleton and Git repositories. Manage all cloud/API \ncredentials. \nLead Developer \nP1 \nConversational \nCore \nDev 1 (LLM Core): Set up LangChain conversational chain with OpenAI API \nconnection. (GPT-Based Q&A Chatbot) \nLLM & Backend Core \nP2 \nBackend API \nDev 2 (Backend Core): Build foundational FastMCP server endpoints and \ncommunication. \nLLM & Backend Core \nP1 \nDocument \nIngestion \nDev 1 (Data): Integrate Google Drive API (Auth/File Listing) and implement \nPyMuPDF/pdfplumber parsing. (Document Retrieval) \nData & Document \nIntegration \nP2 \nVector Store \nDev 2 (Data): Set up ChromaDB and integrate OpenAI embeddings API. \n(Document Retrieval) \nData & Document \nIntegration \nP2 \nAgent \nFoundations \nDev 1 (Agent): Begin learning LangGraph concepts and define initial tool \nschemas. (Agentic Workflows) \nAgentic Workflows \n& Services \nP3 \nService Prep \nDev 2 (Agent): Establish initial connection and auth for the Gmail API.",
+            "metadata": {
+              "doc_id": "260b6d78-d430-49bb-9df5-a8823b7d0bc8",
+              "timestamp": "2025-10-22T21:46:04.626465",
+              "chunk_index": 2,
+              "filename": "Agentic Chatbot Roadmap.pdf"
+            },
+            "similarity": -0.887283444404602
+          },
+          {
+            "content": "server skeleton and Git repositories. Manage all cloud/API \ncredentials. \nLead Developer \nP1 \nConversational \nCore \nDev 1 (LLM Core): Set up LangChain conversational chain with OpenAI API \nconnection. (GPT-Based Q&A Chatbot) \nLLM & Backend Core \nP2 \nBackend API \nDev 2 (Backend Core): Build foundational FastMCP server endpoints and \ncommunication. \nLLM & Backend Core \nP1 \nDocument \nIngestion \nDev 1 (Data): Integrate Google Drive API (Auth/File Listing) and implement \nPyMuPDF/pdfplumber parsing. (Document Retrieval) \nData & Document \nIntegration \nP2 \nVector Store \nDev 2 (Data): Set up ChromaDB and integrate OpenAI embeddings API. \n(Document Retrieval) \nData & Document \nIntegration \nP2 \nAgent \nFoundations \nDev 1 (Agent): Begin learning LangGraph concepts and define initial tool \nschemas. (Agentic Workflows) \nAgentic Workflows \n& Services \nP3 \nService Prep \nDev 2 (Agent): Establish initial connection and auth for the Gmail API.",
+            "metadata": {
+              "filename": "Agentic Chatbot Roadmap.pdf",
+              "chunk_index": 2,
+              "timestamp": "2025-10-22T21:46:09.535229",
+              "doc_id": "67722ca4-431a-49e3-86c1-c2dbf871a261"
+            },
+            "similarity": -0.887283444404602
+          },
+          {
+            "content": "nt. \nLead Developer \nFuture Extensions (Post-Deployment Ideas) \n• \nVoice Assistant: Integration of Whisper v3 (Speech-to-Text) and a TTS library (e.g., pyttsx3, ElevenLabs) for full voice interaction. \n• \nInteractive Code Execution: Using FastAPI + WebSocket API and JupyterLab API to run and return code snippets. \n• \nVision-Based Hardware Debugging: Utilizing GPT-4 Vision for detecting errors in hardware designs via image uploads.",
+            "metadata": {
+              "chunk_index": 10,
+              "doc_id": "260b6d78-d430-49bb-9df5-a8823b7d0bc8",
+              "timestamp": "2025-10-22T21:46:05.394978",
+              "filename": "Agentic Chatbot Roadmap.pdf"
+            },
+            "similarity": -0.9312714338302612
+          },
+          {
+            "content": "nt. \nLead Developer \nFuture Extensions (Post-Deployment Ideas) \n• \nVoice Assistant: Integration of Whisper v3 (Speech-to-Text) and a TTS library (e.g., pyttsx3, ElevenLabs) for full voice interaction. \n• \nInteractive Code Execution: Using FastAPI + WebSocket API and JupyterLab API to run and return code snippets. \n• \nVision-Based Hardware Debugging: Utilizing GPT-4 Vision for detecting errors in hardware designs via image uploads.",
+            "metadata": {
+              "chunk_index": 10,
+              "timestamp": "2025-10-22T21:46:10.310748",
+              "doc_id": "67722ca4-431a-49e3-86c1-c2dbf871a261",
+              "filename": "Agentic Chatbot Roadmap.pdf"
+            },
+            "similarity": -0.9312714338302612
+          },
+          {
+            "content": "oundational FastMCP server, API communication, \nmemory handling. \nData & Document \nIntegration (2) \n2 \nRAG pipeline (ChromaDB, embeddings, parsing), Knowledge Graph (Neo4j schema, \npopulation, query). \nAgentic Workflows & \nServices (2) \n2 \nMulti-step agentic planning (LangGraph), Google Services integration (Gmail, Forms, \nCalendar). \nAnalytics & Frontend (2) \n2 \nTask tracking, skill evaluation (Pandas), event evaluation, user interface (UI/UX) \ndevelopment. \n2. Four-Week Sprint Plan \n  Week 1: Foundation & Core Setup (GPT Q&A, RAG Prep, Neo4j Setup) \nTask \nPriority \nModule \nKey Tasks (Core Features) \nAssigned Team \nP1 \nInfrastructure \nSet up FastMCP server skeleton and Git repositories. Manage all cloud/API \ncredentials. \nLead Developer \nP1 \nConversational \nCore \nDev 1 (LLM Core): Set up LangChain conversational chain with OpenAI API \nconnection.",
+            "metadata": {
+              "chunk_index": 1,
+              "doc_id": "67722ca4-431a-49e3-86c1-c2dbf871a261",
+              "filename": "Agentic Chatbot Roadmap.pdf",
+              "timestamp": "2025-10-22T21:46:09.396556"
+            },
+            "similarity": -0.9725489616394043
+          }
+        ]
+      }
+    ],
+    "created_at": "2025-10-22T21:58:15.195826"
+  },
+  "225256ae-c8f4-4389-8e7b-2ed95ef7f172": {
+    "name": "first",
+    "messages": [
+      {
+        "role": "user",
+        "content": "what is the document about"
+      },
+      {
+        "role": "assistant",
+        "content": "The provided documents are all excerpts from an **\"Agentic Chatbot Roadmap.pdf\"**.\n\nBased on the content across these documents (Document 1, Document 2, Document 3, Document 4, Document 5), they collectively outline a development roadmap for an **agentic chatbot**. The documents detail various tasks, their priorities (P1, P2, P3), modules, key features, and assigned teams.\n\nSpecifically, the roadmap covers:\n*   **Core Components:** Setting up a conversational core with an LLM (GPT-Based Q&A Chatbot), building a backend API, and managing server infrastructure and credentials (Document 1, Document 2).\n*   **Data Integration:** Document ingestion (Google Drive API, PyMuPDF/pdfplumber parsing), setting up a vector store (ChromaDB with OpenAI embeddings), and implementing document chunking, embedding, and metadata filtering for a RAG (Retrieval Augmented Generation) pipeline (Document 1, Document 2, Document 3, Document 4, Document 5).\n*   **Agentic Workflows:** Learning LangGraph concepts, defining tool schemas, establishing connections to services like the Gmail API, and implementing simple 2-3 step workflows (e.g., RAG Search → Email Result) (Document 1, Document 2, Document 3, Document 4, Document 5).\n*   **Knowledge Graph:** Setting up a Neo4j database with a basic schema (Member, Skill, Project), populating it, and integrating LangChain GraphQA for queries like 'Who is working on Project X?' (Document 3, Document 4, Document 5).\n*   **Chat Memory & Logic:** Adding ConversationBufferMemory, building an FAQ knowledge base with a GPT fallback, and developing backend logic to route queries to RAG, Neo4j, or fallback mechanisms (Document 3, Document 4).\n*   **Frontend:** Building a basic UI skeleton for the chatbot interface (React/Discord/Teams) (Document 5).\n\nThe documents essentially describe the phased development plan, with a focus on achieving \"MVP Completion & Knowledge Integration (RAG, Neo4j Queries, Basic Agents)\" by Week 2 (Document 5).",
+        "sources": [
+          {
+            "content": "server skeleton and Git repositories. Manage all cloud/API \ncredentials. \nLead Developer \nP1 \nConversational \nCore \nDev 1 (LLM Core): Set up LangChain conversational chain with OpenAI API \nconnection. (GPT-Based Q&A Chatbot) \nLLM & Backend Core \nP2 \nBackend API \nDev 2 (Backend Core): Build foundational FastMCP server endpoints and \ncommunication. \nLLM & Backend Core \nP1 \nDocument \nIngestion \nDev 1 (Data): Integrate Google Drive API (Auth/File Listing) and implement \nPyMuPDF/pdfplumber parsing. (Document Retrieval) \nData & Document \nIntegration \nP2 \nVector Store \nDev 2 (Data): Set up ChromaDB and integrate OpenAI embeddings API. \n(Document Retrieval) \nData & Document \nIntegration \nP2 \nAgent \nFoundations \nDev 1 (Agent): Begin learning LangGraph concepts and define initial tool \nschemas. (Agentic Workflows) \nAgentic Workflows \n& Services \nP3 \nService Prep \nDev 2 (Agent): Establish initial connection and auth for the Gmail API.",
+            "metadata": {
+              "doc_id": "260b6d78-d430-49bb-9df5-a8823b7d0bc8",
+              "chunk_index": 2,
+              "timestamp": "2025-10-22T21:46:04.626465",
+              "filename": "Agentic Chatbot Roadmap.pdf"
+            },
+            "similarity": -0.6626503467559814
+          },
+          {
+            "content": "server skeleton and Git repositories. Manage all cloud/API \ncredentials. \nLead Developer \nP1 \nConversational \nCore \nDev 1 (LLM Core): Set up LangChain conversational chain with OpenAI API \nconnection. (GPT-Based Q&A Chatbot) \nLLM & Backend Core \nP2 \nBackend API \nDev 2 (Backend Core): Build foundational FastMCP server endpoints and \ncommunication. \nLLM & Backend Core \nP1 \nDocument \nIngestion \nDev 1 (Data): Integrate Google Drive API (Auth/File Listing) and implement \nPyMuPDF/pdfplumber parsing. (Document Retrieval) \nData & Document \nIntegration \nP2 \nVector Store \nDev 2 (Data): Set up ChromaDB and integrate OpenAI embeddings API. \n(Document Retrieval) \nData & Document \nIntegration \nP2 \nAgent \nFoundations \nDev 1 (Agent): Begin learning LangGraph concepts and define initial tool \nschemas. (Agentic Workflows) \nAgentic Workflows \n& Services \nP3 \nService Prep \nDev 2 (Agent): Establish initial connection and auth for the Gmail API.",
+            "metadata": {
+              "filename": "Agentic Chatbot Roadmap.pdf",
+              "doc_id": "67722ca4-431a-49e3-86c1-c2dbf871a261",
+              "timestamp": "2025-10-22T21:46:09.535229",
+              "chunk_index": 2
+            },
+            "similarity": -0.6626503467559814
+          },
+          {
+            "content": ", Basic Agents) \nTask \nPriority \nModule \nKey Tasks (Core Features) \nAssigned Team \nP1 \nRAG Pipeline \nDev 1 (Data): Implement document chunking, embedding, storage in ChromaDB, \nand metadata filtering. (Document Retrieval) \nData & Document \nIntegration \nP1 \nGraph \nPopulation \nDev 2 (Data): Populate Neo4j; integrate LangChain GraphQA to enable 'Who is \nworking on Project X?' queries. (Knowledge Graph) \nData & Document \nIntegration \nP1 \nChat Memory \nDev 1 (LLM Core): Add ConversationBufferMemory and build FAQ knowledge \nbase + fallback to GPT. (GPT-Based Q&A) \nLLM & Backend Core \nP2 \nBackend Logic \nDev 2 (Backend Core): Develop backend logic to route queries to RAG, Neo4j, or \nfallback. \nLLM & Backend Core \nP1 \nSimple \nWorkflows \nDev 1 (Agent): Implement LangGraph for 2-3 step workflows (e.g., RAG Search → \nEmail Result).",
+            "metadata": {
+              "filename": "Agentic Chatbot Roadmap.pdf",
+              "chunk_index": 4,
+              "timestamp": "2025-10-22T21:46:04.826539",
+              "doc_id": "260b6d78-d430-49bb-9df5-a8823b7d0bc8"
+            },
+            "similarity": -0.6663531064987183
+          },
+          {
+            "content": ", Basic Agents) \nTask \nPriority \nModule \nKey Tasks (Core Features) \nAssigned Team \nP1 \nRAG Pipeline \nDev 1 (Data): Implement document chunking, embedding, storage in ChromaDB, \nand metadata filtering. (Document Retrieval) \nData & Document \nIntegration \nP1 \nGraph \nPopulation \nDev 2 (Data): Populate Neo4j; integrate LangChain GraphQA to enable 'Who is \nworking on Project X?' queries. (Knowledge Graph) \nData & Document \nIntegration \nP1 \nChat Memory \nDev 1 (LLM Core): Add ConversationBufferMemory and build FAQ knowledge \nbase + fallback to GPT. (GPT-Based Q&A) \nLLM & Backend Core \nP2 \nBackend Logic \nDev 2 (Backend Core): Develop backend logic to route queries to RAG, Neo4j, or \nfallback. \nLLM & Backend Core \nP1 \nSimple \nWorkflows \nDev 1 (Agent): Implement LangGraph for 2-3 step workflows (e.g., RAG Search → \nEmail Result).",
+            "metadata": {
+              "doc_id": "67722ca4-431a-49e3-86c1-c2dbf871a261",
+              "chunk_index": 4,
+              "timestamp": "2025-10-22T21:46:09.744026",
+              "filename": "Agentic Chatbot Roadmap.pdf"
+            },
+            "similarity": -0.6663531064987183
+          },
+          {
+            "content": "rning LangGraph concepts and define initial tool \nschemas. (Agentic Workflows) \nAgentic Workflows \n& Services \nP3 \nService Prep \nDev 2 (Agent): Establish initial connection and auth for the Gmail API. (Google \nServices) \nAgentic Workflows \n& Services \nP1 \nGraph Setup \nDev 1 (Analytics): Set up Neo4j database and define basic schema (Member, \nSkill, Project). (Knowledge Graph) \nAnalytics & \nFrontend \nP2 \nFrontend \nSkeleton \nDev 2 (Frontend): Build a basic, responsive UI skeleton for the chatbot \ninterface (React/Discord/Teams). \nAnalytics & \nFrontend \n  Week 2: MVP Completion & Knowledge Integration (RAG, Neo4j Queries, Basic Agents) \nTask \nPriority \nModule \nKey Tasks (Core Features) \nAssigned Team \nP1 \nRAG Pipeline \nDev 1 (Data): Implement document chunking, embedding, storage in ChromaDB, \nand metadata filtering.",
+            "metadata": {
+              "doc_id": "67722ca4-431a-49e3-86c1-c2dbf871a261",
+              "timestamp": "2025-10-22T21:46:09.633173",
+              "filename": "Agentic Chatbot Roadmap.pdf",
+              "chunk_index": 3
+            },
+            "similarity": -0.7096703052520752
+          }
+        ]
+      }
+    ],
+    "created_at": "2025-10-22T21:53:57.927973"
+  },
+  "da993e56-9f2e-4c48-a623-2a14c51934c2": {
+    "name": "Conversation 10/22 21:54",
+    "messages": [
+      {
+        "role": "user",
+        "content": "what is capital"
+      },
+      {
+        "role": "assistant",
+        "content": "Based on the provided documents, there is no information or definition provided for the term \"capital.\" The documents discuss technical aspects of an \"Agentic Chatbot Roadmap,\" including server setup, API connections, document ingestion, vector stores, and agent foundations, but they do not define or use the term \"capital\" in an explanatory context.",
+        "sources": [
+          {
+            "content": "server skeleton and Git repositories. Manage all cloud/API \ncredentials. \nLead Developer \nP1 \nConversational \nCore \nDev 1 (LLM Core): Set up LangChain conversational chain with OpenAI API \nconnection. (GPT-Based Q&A Chatbot) \nLLM & Backend Core \nP2 \nBackend API \nDev 2 (Backend Core): Build foundational FastMCP server endpoints and \ncommunication. \nLLM & Backend Core \nP1 \nDocument \nIngestion \nDev 1 (Data): Integrate Google Drive API (Auth/File Listing) and implement \nPyMuPDF/pdfplumber parsing. (Document Retrieval) \nData & Document \nIntegration \nP2 \nVector Store \nDev 2 (Data): Set up ChromaDB and integrate OpenAI embeddings API. \n(Document Retrieval) \nData & Document \nIntegration \nP2 \nAgent \nFoundations \nDev 1 (Agent): Begin learning LangGraph concepts and define initial tool \nschemas. (Agentic Workflows) \nAgentic Workflows \n& Services \nP3 \nService Prep \nDev 2 (Agent): Establish initial connection and auth for the Gmail API.",
+            "metadata": {
+              "timestamp": "2025-10-22T21:46:04.626465",
+              "chunk_index": 2,
+              "filename": "Agentic Chatbot Roadmap.pdf",
+              "doc_id": "260b6d78-d430-49bb-9df5-a8823b7d0bc8"
+            },
+            "similarity": -0.9045779705047607
+          },
+          {
+            "content": "server skeleton and Git repositories. Manage all cloud/API \ncredentials. \nLead Developer \nP1 \nConversational \nCore \nDev 1 (LLM Core): Set up LangChain conversational chain with OpenAI API \nconnection. (GPT-Based Q&A Chatbot) \nLLM & Backend Core \nP2 \nBackend API \nDev 2 (Backend Core): Build foundational FastMCP server endpoints and \ncommunication. \nLLM & Backend Core \nP1 \nDocument \nIngestion \nDev 1 (Data): Integrate Google Drive API (Auth/File Listing) and implement \nPyMuPDF/pdfplumber parsing. (Document Retrieval) \nData & Document \nIntegration \nP2 \nVector Store \nDev 2 (Data): Set up ChromaDB and integrate OpenAI embeddings API. \n(Document Retrieval) \nData & Document \nIntegration \nP2 \nAgent \nFoundations \nDev 1 (Agent): Begin learning LangGraph concepts and define initial tool \nschemas. (Agentic Workflows) \nAgentic Workflows \n& Services \nP3 \nService Prep \nDev 2 (Agent): Establish initial connection and auth for the Gmail API.",
+            "metadata": {
+              "timestamp": "2025-10-22T21:46:09.535229",
+              "filename": "Agentic Chatbot Roadmap.pdf",
+              "chunk_index": 2,
+              "doc_id": "67722ca4-431a-49e3-86c1-c2dbf871a261"
+            },
+            "similarity": -0.9045779705047607
+          },
+          {
+            "content": "oundational FastMCP server, API communication, \nmemory handling. \nData & Document \nIntegration (2) \n2 \nRAG pipeline (ChromaDB, embeddings, parsing), Knowledge Graph (Neo4j schema, \npopulation, query). \nAgentic Workflows & \nServices (2) \n2 \nMulti-step agentic planning (LangGraph), Google Services integration (Gmail, Forms, \nCalendar). \nAnalytics & Frontend (2) \n2 \nTask tracking, skill evaluation (Pandas), event evaluation, user interface (UI/UX) \ndevelopment. \n2. Four-Week Sprint Plan \n  Week 1: Foundation & Core Setup (GPT Q&A, RAG Prep, Neo4j Setup) \nTask \nPriority \nModule \nKey Tasks (Core Features) \nAssigned Team \nP1 \nInfrastructure \nSet up FastMCP server skeleton and Git repositories. Manage all cloud/API \ncredentials. \nLead Developer \nP1 \nConversational \nCore \nDev 1 (LLM Core): Set up LangChain conversational chain with OpenAI API \nconnection.",
+            "metadata": {
+              "chunk_index": 1,
+              "doc_id": "260b6d78-d430-49bb-9df5-a8823b7d0bc8",
+              "timestamp": "2025-10-22T21:46:04.515860",
+              "filename": "Agentic Chatbot Roadmap.pdf"
+            },
+            "similarity": -0.9238914251327515
+          },
+          {
+            "content": "oundational FastMCP server, API communication, \nmemory handling. \nData & Document \nIntegration (2) \n2 \nRAG pipeline (ChromaDB, embeddings, parsing), Knowledge Graph (Neo4j schema, \npopulation, query). \nAgentic Workflows & \nServices (2) \n2 \nMulti-step agentic planning (LangGraph), Google Services integration (Gmail, Forms, \nCalendar). \nAnalytics & Frontend (2) \n2 \nTask tracking, skill evaluation (Pandas), event evaluation, user interface (UI/UX) \ndevelopment. \n2. Four-Week Sprint Plan \n  Week 1: Foundation & Core Setup (GPT Q&A, RAG Prep, Neo4j Setup) \nTask \nPriority \nModule \nKey Tasks (Core Features) \nAssigned Team \nP1 \nInfrastructure \nSet up FastMCP server skeleton and Git repositories. Manage all cloud/API \ncredentials. \nLead Developer \nP1 \nConversational \nCore \nDev 1 (LLM Core): Set up LangChain conversational chain with OpenAI API \nconnection.",
+            "metadata": {
+              "filename": "Agentic Chatbot Roadmap.pdf",
+              "timestamp": "2025-10-22T21:46:09.396556",
+              "chunk_index": 1,
+              "doc_id": "67722ca4-431a-49e3-86c1-c2dbf871a261"
+            },
+            "similarity": -0.9238914251327515
+          },
+          {
+            "content": "nt. \nLead Developer \nFuture Extensions (Post-Deployment Ideas) \n• \nVoice Assistant: Integration of Whisper v3 (Speech-to-Text) and a TTS library (e.g., pyttsx3, ElevenLabs) for full voice interaction. \n• \nInteractive Code Execution: Using FastAPI + WebSocket API and JupyterLab API to run and return code snippets. \n• \nVision-Based Hardware Debugging: Utilizing GPT-4 Vision for detecting errors in hardware designs via image uploads.",
+            "metadata": {
+              "timestamp": "2025-10-22T21:46:10.310748",
+              "doc_id": "67722ca4-431a-49e3-86c1-c2dbf871a261",
+              "filename": "Agentic Chatbot Roadmap.pdf",
+              "chunk_index": 10
+            },
+            "similarity": -0.9363486766815186
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": " what is capital of india"
+      },
+      {
+        "role": "assistant",
+        "content": "Based on the provided documents, there is no information about the capital of India. The documents focus on the development roadmap for an Agentic Chatbot, outlining tasks related to infrastructure, conversational core, backend API, document ingestion, vector store, agent foundations, and future extensions.",
+        "sources": [
+          {
+            "content": "server skeleton and Git repositories. Manage all cloud/API \ncredentials. \nLead Developer \nP1 \nConversational \nCore \nDev 1 (LLM Core): Set up LangChain conversational chain with OpenAI API \nconnection. (GPT-Based Q&A Chatbot) \nLLM & Backend Core \nP2 \nBackend API \nDev 2 (Backend Core): Build foundational FastMCP server endpoints and \ncommunication. \nLLM & Backend Core \nP1 \nDocument \nIngestion \nDev 1 (Data): Integrate Google Drive API (Auth/File Listing) and implement \nPyMuPDF/pdfplumber parsing. (Document Retrieval) \nData & Document \nIntegration \nP2 \nVector Store \nDev 2 (Data): Set up ChromaDB and integrate OpenAI embeddings API. \n(Document Retrieval) \nData & Document \nIntegration \nP2 \nAgent \nFoundations \nDev 1 (Agent): Begin learning LangGraph concepts and define initial tool \nschemas. (Agentic Workflows) \nAgentic Workflows \n& Services \nP3 \nService Prep \nDev 2 (Agent): Establish initial connection and auth for the Gmail API.",
+            "metadata": {
+              "filename": "Agentic Chatbot Roadmap.pdf",
+              "doc_id": "260b6d78-d430-49bb-9df5-a8823b7d0bc8",
+              "chunk_index": 2,
+              "timestamp": "2025-10-22T21:46:04.626465"
+            },
+            "similarity": -0.887283444404602
+          },
+          {
+            "content": "server skeleton and Git repositories. Manage all cloud/API \ncredentials. \nLead Developer \nP1 \nConversational \nCore \nDev 1 (LLM Core): Set up LangChain conversational chain with OpenAI API \nconnection. (GPT-Based Q&A Chatbot) \nLLM & Backend Core \nP2 \nBackend API \nDev 2 (Backend Core): Build foundational FastMCP server endpoints and \ncommunication. \nLLM & Backend Core \nP1 \nDocument \nIngestion \nDev 1 (Data): Integrate Google Drive API (Auth/File Listing) and implement \nPyMuPDF/pdfplumber parsing. (Document Retrieval) \nData & Document \nIntegration \nP2 \nVector Store \nDev 2 (Data): Set up ChromaDB and integrate OpenAI embeddings API. \n(Document Retrieval) \nData & Document \nIntegration \nP2 \nAgent \nFoundations \nDev 1 (Agent): Begin learning LangGraph concepts and define initial tool \nschemas. (Agentic Workflows) \nAgentic Workflows \n& Services \nP3 \nService Prep \nDev 2 (Agent): Establish initial connection and auth for the Gmail API.",
+            "metadata": {
+              "doc_id": "67722ca4-431a-49e3-86c1-c2dbf871a261",
+              "filename": "Agentic Chatbot Roadmap.pdf",
+              "chunk_index": 2,
+              "timestamp": "2025-10-22T21:46:09.535229"
+            },
+            "similarity": -0.887283444404602
+          },
+          {
+            "content": "nt. \nLead Developer \nFuture Extensions (Post-Deployment Ideas) \n• \nVoice Assistant: Integration of Whisper v3 (Speech-to-Text) and a TTS library (e.g., pyttsx3, ElevenLabs) for full voice interaction. \n• \nInteractive Code Execution: Using FastAPI + WebSocket API and JupyterLab API to run and return code snippets. \n• \nVision-Based Hardware Debugging: Utilizing GPT-4 Vision for detecting errors in hardware designs via image uploads.",
+            "metadata": {
+              "chunk_index": 10,
+              "doc_id": "260b6d78-d430-49bb-9df5-a8823b7d0bc8",
+              "filename": "Agentic Chatbot Roadmap.pdf",
+              "timestamp": "2025-10-22T21:46:05.394978"
+            },
+            "similarity": -0.9312714338302612
+          },
+          {
+            "content": "nt. \nLead Developer \nFuture Extensions (Post-Deployment Ideas) \n• \nVoice Assistant: Integration of Whisper v3 (Speech-to-Text) and a TTS library (e.g., pyttsx3, ElevenLabs) for full voice interaction. \n• \nInteractive Code Execution: Using FastAPI + WebSocket API and JupyterLab API to run and return code snippets. \n• \nVision-Based Hardware Debugging: Utilizing GPT-4 Vision for detecting errors in hardware designs via image uploads.",
+            "metadata": {
+              "chunk_index": 10,
+              "timestamp": "2025-10-22T21:46:10.310748",
+              "filename": "Agentic Chatbot Roadmap.pdf",
+              "doc_id": "67722ca4-431a-49e3-86c1-c2dbf871a261"
+            },
+            "similarity": -0.9312714338302612
+          },
+          {
+            "content": "oundational FastMCP server, API communication, \nmemory handling. \nData & Document \nIntegration (2) \n2 \nRAG pipeline (ChromaDB, embeddings, parsing), Knowledge Graph (Neo4j schema, \npopulation, query). \nAgentic Workflows & \nServices (2) \n2 \nMulti-step agentic planning (LangGraph), Google Services integration (Gmail, Forms, \nCalendar). \nAnalytics & Frontend (2) \n2 \nTask tracking, skill evaluation (Pandas), event evaluation, user interface (UI/UX) \ndevelopment. \n2. Four-Week Sprint Plan \n  Week 1: Foundation & Core Setup (GPT Q&A, RAG Prep, Neo4j Setup) \nTask \nPriority \nModule \nKey Tasks (Core Features) \nAssigned Team \nP1 \nInfrastructure \nSet up FastMCP server skeleton and Git repositories. Manage all cloud/API \ncredentials. \nLead Developer \nP1 \nConversational \nCore \nDev 1 (LLM Core): Set up LangChain conversational chain with OpenAI API \nconnection.",
+            "metadata": {
+              "doc_id": "67722ca4-431a-49e3-86c1-c2dbf871a261",
+              "chunk_index": 1,
+              "filename": "Agentic Chatbot Roadmap.pdf",
+              "timestamp": "2025-10-22T21:46:09.396556"
+            },
+            "similarity": -0.9725489616394043
+          }
+        ]
+      }
+    ],
+    "created_at": "2025-10-22T21:54:59.842425"
+  }
+}
